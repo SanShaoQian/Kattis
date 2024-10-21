@@ -1,7 +1,7 @@
 //https://nus.kattis.com/courses/CS2040/CS2040_S2_AY2324/assignments/iidei6/problems/t9spelling
 import java.io.*;
 
-class stringToNum {
+class t9spelling {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         PrintWriter pw = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
